@@ -1,4 +1,4 @@
-# cat-dog_classifier
+# Cat-Dog_Classifier
 This is my first CNN project,so bear me with a main stream project idea.\
 I build a Deep learning model in which basically classify the animal in the image as a Cat or Dog.\
 The dataset to train/test was obtained from kaggle.\
